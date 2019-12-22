@@ -1,0 +1,32 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "Saartak",
+        "gender": "Male",
+        "contactPreference":"Email",
+        "email":"tsaartak@gmail.com",
+        "department":"3",
+        "isActive":true
+      },
+      {
+        "id": 2,
+        "name": "Shraddha",
+        "gender": "Female",
+        "contactPreference":"Phone",
+        "phoneNumber":"9820765436",
+        "department":"2",
+        "isActive":true
+      },
+      {
+        "id": 3,
+        "name": "Shahrukh",
+        "gender": "Male",
+        "contactPreference":"Phone",
+        "phoneNumber":"8527752150",
+        "department":"3",
+        "isActive":false
+      }
+    ]
+  
+  }
