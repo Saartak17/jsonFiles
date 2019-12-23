@@ -27,22 +27,6 @@
         "department":"3",
         "isActive":false
       }
-    ],
-    
-  "products": [
-      {
-        "name":"t-shirt",
-        "color":"red"
-      },
-      {
-        "name":"trouser",
-        "color":"yellow"
-      },
-       {
-        "name":"hat",
-        "color":"blue"
-      }
-  
-  ]
+    ]
   
   }
